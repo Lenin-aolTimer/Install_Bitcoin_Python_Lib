@@ -1,5 +1,6 @@
 # Install Peter Todd's Bitcoin library in Python
 
+## Install for Python 2 and 3
 
 ### Installing the Python Script
 ```
